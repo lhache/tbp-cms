@@ -3,3 +3,17 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.26"
+
+# LANGUAGES
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+title = "The Better Play"
+subtitle = "Inspiration for good toys"
+weight = 1
+
+[Languages.de]
+title = "The Better Play"
+subtitle = "Inspiration für gutes Spielzeug"
+weight = 2
