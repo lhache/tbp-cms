@@ -3,3 +3,17 @@ baseURL = "/"
 languageCode = "en-us"
 title = "The Better Play"
 theme = "ananke"
+
+# LANGUAGES
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+title = "The Better Play"
+subtitle = "Inspiration for good toys"
+weight = 1
+
+[Languages.de]
+title = "The Better Play"
+subtitle = "Inspiration für gutes Spielzeug"
+weight = 2
