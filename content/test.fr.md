@@ -1,5 +1,5 @@
 ---
 title: test fr
-slug: testfr
+#slug: testfr
 ---
 test fr
