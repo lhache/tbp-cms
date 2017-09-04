@@ -1,0 +1,5 @@
+#baseURL = "http://www.thebetterplay.com"
+baseURL = "/"
+languageCode = "en-us"
+title = "The Better Play"
+theme = "ananke"
