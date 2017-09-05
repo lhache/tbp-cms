@@ -2,7 +2,26 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "The Better Play"
-theme = "ananke"
+theme = "custom"
+
+# MENU
+[[menu.footer]]
+  name = "about"
+  identifier = "about"
+  url = "/about-us"
+[[Languages.de.menu.footer]]
+  name = "Ueber uns"
+  identifier = "about"
+  url = "/de/ueber-uns"
+
+[[menu.footer]]
+  name = "luliz"
+  identifier = "luliz"
+  url = "/luliz/"
+[[Languages.de.menu.footer]]
+  name = "luliz de"
+  identifier = "luliz"
+  url = "/de/luliz"
 
 # LANGUAGES
 DefaultContentLanguage = "en"
@@ -17,17 +36,3 @@ weight = 1
 title = "The Better Play"
 subtitle = "Inspiration für gutes Spielzeug"
 weight = 2
-
-Pages = ['about', 'luliz']
-
-[[menu.main]]
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about-us"
-[[menu.main]]
-    name = "getting started"
-    pre = "<i class='fa fa-road'></i>"
-    weight = -100
-    url = "/luliz/"
