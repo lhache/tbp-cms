@@ -4,24 +4,43 @@ languageCode = "en-us"
 title = "The Better Play"
 theme = "custom"
 
-# MENU
+# FOOTER
+# Footer about
 [[menu.footer]]
-  name = "about"
+  name = "About"
   identifier = "about"
-  url = "/about-us"
+  url = "/company/about-us"
 [[Languages.de.menu.footer]]
   name = "Ueber uns"
   identifier = "about"
-  url = "/de/ueber-uns"
-
+  url = "/de/company/ueber-uns"
+# Footer affiliate
 [[menu.footer]]
-  name = "luliz"
-  identifier = "luliz"
-  url = "/luliz/"
+  name = "Affiliate Disclaimer"
+  identifier = "affiliate-disclaimer"
+  url = "/company/affiliate-disclaimer"
 [[Languages.de.menu.footer]]
-  name = "luliz de"
-  identifier = "luliz"
-  url = "/de/luliz"
+  name = "Amazon Partnerprogramm"
+  identifier = "affiliate-disclaimer"
+  url = "/de/company/amazon-partnerprogramm"
+# Footer imprint
+[[menu.footer]]
+  name = "Imprint"
+  identifier = "imprint"
+  url = "/company/imprint"
+[[Languages.de.menu.footer]]
+  name = "Impressum"
+  identifier = "imprint"
+  url = "/de/company/impressum"
+  # Footer privacy-policy
+  [[menu.footer]]
+    name = "Privacy Policy"
+    identifier = "privacy-policy"
+    url = "/company/privacy-policy"
+  [[Languages.de.menu.footer]]
+    name = "Datenschutzerklärung"
+    identifier = "privacy-policy"
+    url = "/de/company/datenschutzerklärung"
 
 # LANGUAGES
 DefaultContentLanguage = "en"
@@ -29,10 +48,8 @@ DefaultContentLanguage = "en"
 [Languages]
 [Languages.en]
 title = "The Better Play"
-subtitle = "Inspiration for good toys"
 weight = 1
 
 [Languages.de]
 title = "The Better Play"
-subtitle = "Inspiration für gutes Spielzeug"
 weight = 2

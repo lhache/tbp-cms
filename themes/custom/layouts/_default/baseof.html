@@ -8,7 +8,8 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">
+
      {{ .Hugo.Generator }}
       {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
       {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
@@ -17,19 +18,29 @@
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
       {{ end }}
 
-     <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
-
-
       {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
         {{ template "_internal/google_analytics_async.html" . }}
       {{ end }}
+
+      {{/* non-hugo code  */}}
+      <link href='{{ "http://tbp-app.netlify.com/static/css/main.8ea79077.css" | absURL }}' rel='stylesheet' type="text/css" />
+      <style>
+        {{ partial "footer.css" | safeCSS }}
+      </style>
+
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+      <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+      <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+      <meta name="theme-color" content="#2a079b">
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
-
+    <div id="root"></div>
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+    {{/* {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }} */}}
+    <script src='{{ "http://d33wubrfki0l68.cloudfront.net/js/97797af50693561777667d52f22ff2d0354a61f0/static/js/main.120c5c87.js" | absURL }}' type="text/javascript"></script>
   </body>
 </html>

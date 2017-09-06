@@ -1,0 +1,26 @@
+.HugoFooter {
+  display: flex;
+  min-height: 150px;
+  background-color: #20282f;
+  padding: 20px;
+  color: #00cbe2;
+}
+
+.HugoFooter-Brand, .HugoFooter-Links {
+  flex-basis: 50%;
+}
+
+.HugoFooter-Subtitle, .HugoFooter-Copyright {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.HugoFooter-Link {
+  padding: 5px;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.HugoFooter a {
+  color: #00cbe2;
+  text-decoration: none;
+}

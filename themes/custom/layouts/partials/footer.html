@@ -1,20 +1,26 @@
-<footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-    &copy; {{ now.Format "2006" }} {{ .Site.Title }}
-  </a>
+<footer class="HugoFooter bottom-0 w-100 pa3" role="contentinfo">
+  <div class="HugoFooter-Brand">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+      <img src="/images/logo.svg" alt="" />
+    </a>
+    <div class="HugoFooter-Subtitle">
+      {{ i18n "subtitle" }}
+    </div>
   </div>
-  <div class="flex-l items-center">
-    {{ if .Site.Menus.footer }}
-      <ul class="pl0 mr3">
-        {{ range .Site.Menus.footer }}
-        <li class="list f5 f4-ns fw4 dib pr3">
-          <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-            {{ .Name }}
-          </a>
-        </li>
-        {{ end }}
-      </ul>
-    {{ end }}
+  <div class="HugoFooter-Links">
+    <div class="HugoFooter-Copyright">
+      Copyright &copy; {{ now.Format "2006" }}
+    </div>
+    <div class="HugoFooter-LinkList">
+      {{ if .Site.Menus.footer }}
+          {{ range .Site.Menus.footer }}
+            <div class="HugoFooter-Link">
+              <a class="" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </div>
+          {{ end }}
+      {{ end }}
+    </div>
   </div>
 </footer>
