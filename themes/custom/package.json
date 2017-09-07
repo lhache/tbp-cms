@@ -1,0 +1,16 @@
+{
+  "name": "tbp-cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhache/tbp-cms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lhache/tbp-cms/issues"
+  },
+  "homepage": "https://github.com/lhache/tbp-cms#readme",
+  "dependencies": {
+    "tbp-app": "0.0.1"
+  }
+}
