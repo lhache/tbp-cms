@@ -23,14 +23,14 @@
       {{ end }}
 
       {{/* non-hugo code  */}}
-      <link href='{{ "http://tbp-app.netlify.com/static/css/main.8ea79077.css" | absURL }}' rel='stylesheet' type="text/css" />
+      <link href='{{ "build/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
       <style>
         {{ partial "footer.css" | safeCSS }}
       </style>
 
       <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-      <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
-      <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+      <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
+      <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
       <meta name="theme-color" content="#2a079b">
 
       {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
@@ -43,11 +43,12 @@
     {{/* header  */}}
     {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
 
-    {{/* app react */}}
-    <div id="tbp-app-wrapper"></div>
-
     {{/* main content from hugo  */}}
     <main class="pb7" role="main">
+      {{/* app react */}}
+      <div id="tbp-app"></div>
+      <div id="tbp-app-wrapper"></div>
+
       {{ block "main" . }}{{ end }}
     </main>
 
