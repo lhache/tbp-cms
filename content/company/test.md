@@ -1,5 +1,5 @@
 ---
 title: test
-slug: testen
+slug: testde
 ---
-test english
+test de
