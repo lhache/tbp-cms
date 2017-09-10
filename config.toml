@@ -4,6 +4,9 @@ languageCode = "en-us"
 title = "The Better Play"
 theme = "custom"
 
+# TODO
+#.Site.GoogleAnalytics
+
 # FOOTER
 # Footer about
 [[menu.footer]]

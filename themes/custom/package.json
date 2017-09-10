@@ -9,8 +9,5 @@
   "bugs": {
     "url": "https://github.com/lhache/tbp-cms/issues"
   },
-  "homepage": "https://github.com/lhache/tbp-cms#readme",
-  "dependencies": {
-    "tbp-app": "0.0.1"
-  }
+  "homepage": "https://github.com/lhache/tbp-cms#readme"
 }
