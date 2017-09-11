@@ -6,5 +6,5 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 debugger;
-ReactDOM.render(<App />, document.getElementById('tbp-app'));
+ReactDOM.render(<App />, document.getElementById('tbp-app-wrapper'));
 registerServiceWorker();

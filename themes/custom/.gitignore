@@ -24,3 +24,4 @@ npm-debug.log
 /src/client.config.json
 /styleguide/
 /docs/
+/static/build/

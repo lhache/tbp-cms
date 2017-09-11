@@ -17,15 +17,6 @@ theme = "custom"
   name = "Ueber uns"
   identifier = "about"
   url = "/de/company/ueber-uns"
-# Footer affiliate
-[[menu.footer]]
-  name = "Affiliate Disclaimer"
-  identifier = "affiliate-disclaimer"
-  url = "/company/affiliate-disclaimer"
-[[Languages.de.menu.footer]]
-  name = "Amazon Partnerprogramm"
-  identifier = "affiliate-disclaimer"
-  url = "/de/company/amazon-partnerprogramm"
 # Footer imprint
 [[menu.footer]]
   name = "Imprint"
@@ -35,6 +26,15 @@ theme = "custom"
   name = "Impressum"
   identifier = "imprint"
   url = "/de/company/impressum"
+# Footer affiliate
+[[menu.footer]]
+  name = "Affiliate Disclaimer"
+  identifier = "affiliate-disclaimer"
+  url = "/company/affiliate-disclaimer"
+[[Languages.de.menu.footer]]
+  name = "Amazon Partnerprogramm"
+  identifier = "affiliate-disclaimer"
+  url = "/de/company/amazon-partnerprogramm"
   # Footer privacy-policy
   [[menu.footer]]
     name = "Privacy Policy"
