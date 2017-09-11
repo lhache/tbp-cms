@@ -1,26 +1,58 @@
-.HugoFooter {
+.Footer {
   display: flex;
+  flex-basis: 100%;
+  justify-content: center;
   min-height: 150px;
   background-color: #20282f;
   padding: 20px;
   color: #00cbe2;
 }
 
-.HugoFooter-Brand, .HugoFooter-Links {
+.FooterContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  justify-content: center;
+  max-width: 960px;
+  margin-top: 40px;
+}
+
+.FooterLogo {
+  width: 180px;
+  cursor: pointer;
+}
+
+.Footer-Brand, .Footer-Links {
   flex-basis: 50%;
 }
 
-.HugoFooter-Subtitle, .HugoFooter-Copyright {
-  color: rgba(255, 255, 255, 0.5);
+.Footer-Brand {
+  text-align: left;
+}
+.Footer-Links {
+  text-align: right;
+  margin-top: 10px;
 }
 
-.HugoFooter-Link {
-  padding: 5px;
+.Footer-Subtitle, .Footer-Copyright {
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.5em;
+  font-size: 14px;
+}
+
+.Footer-Link {
+  padding: 4px;
   font-size: 14px;
   display: inline-block;
 }
 
-.HugoFooter a {
+.Footer a {
   color: #00cbe2;
   text-decoration: none;
+}
+
+@media all and (max-width: 960px) {
+  .Footer-Subtitle, .Footer-Links {
+    text-align: center;
+  }
 }
