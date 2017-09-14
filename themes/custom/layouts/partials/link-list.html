@@ -1,0 +1,7 @@
+<div>
+  {{ range .Data.Pages }}
+    {{ if eq .Type "landing" }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+  {{ end }}
+</div>
