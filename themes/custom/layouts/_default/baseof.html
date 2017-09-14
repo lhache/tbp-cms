@@ -50,7 +50,7 @@
     {{/* main content from hugo  */}}
     <main class="pb7" role="main">
       {{/* app react */}}
-      <div id="tbp-app-wrapper"></div>
+      {{/* <div id="tbp-app-wrapper"></div> */}}
 
       {{ block "main" . }}
       {{ end }}
@@ -58,7 +58,6 @@
 
     {{/* footer */}}
     {{ block "footer" . }}
-      {{ partial "link-list.html" . }}
       {{ partial "footer.html" . }}
     {{ end }}
 
