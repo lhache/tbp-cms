@@ -1,8 +1,8 @@
 ---
-title: "Test"
-date: 2017-09-14T18:35:24+02:00
+title: "Test2"
+date: 2017-09-14T19:02:32+02:00
 draft: false
 tags: ["2-3"]
-categories: ["educational", "caca"]
+categories: ["caca"]
 ---
 Here you can put text, pictures, video, links, whatever...
