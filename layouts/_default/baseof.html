@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+    <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">
+
+     {{ .Hugo.Generator }}
+      {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+      {{ else }}
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      {{ end }}
+
+      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        {{ template "_internal/google_analytics_async.html" . }}
+      {{ end }}
+
+      {{/* non-hugo code  */}}
+      <link href='{{ "build/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
+      <style>
+        {{ partial "footer.css" | safeCSS }}
+      </style>
+      <style>
+        {{ partial "header.css" | safeCSS }}
+      </style>
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+      <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
+      <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
+      <meta name="theme-color" content="#2a079b">
+
+      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        {{ template "_internal/google_analytics_async.html" . }}
+      {{ end }}
+  </head>
+
+  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+
+    {{/* header  */}}
+    {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+
+    {{/* main content from hugo  */}}
+    <main class="pb7" role="main">
+      {{/* app react */}}
+      <div id="tbp-app-wrapper"></div>
+
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+
+    {{/* footer */}}
+    {{ block "footer" . }}
+      {{ partial "link-list.html" . }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{/* scripts to load */}}
+    {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }}
+  </body>
+</html>

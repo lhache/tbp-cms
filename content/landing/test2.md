@@ -6,3 +6,4 @@ tags: ["2-3"]
 categories: ["caca"]
 ---
 Here you can put text, pictures, video, links, whatever...
+{{< react-contain id="test" >}}
