@@ -22,14 +22,12 @@
   cursor: pointer;
 }
 
-.Footer-Brand, .Footer-Links {
-  flex-basis: 50%;
-}
-
 .Footer-Brand {
+  flex-basis: 30%;
   text-align: left;
 }
 .Footer-Links {
+  flex-basis: 70%;
   text-align: right;
   margin-top: 10px;
 }

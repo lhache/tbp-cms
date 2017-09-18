@@ -35,15 +35,24 @@ theme = "custom"
   name = "Amazon Partnerprogramm"
   identifier = "affiliate-disclaimer"
   url = "/de/company/amazon-partnerprogramm"
-  # Footer privacy-policy
-  [[menu.footer]]
-    name = "Privacy Policy"
-    identifier = "privacy-policy"
-    url = "/company/privacy-policy"
-  [[Languages.de.menu.footer]]
-    name = "Datenschutzerklärung"
-    identifier = "privacy-policy"
-    url = "/de/company/datenschutzerklärung"
+# Footer privacy-policy
+[[menu.footer]]
+  name = "Privacy Policy"
+  identifier = "privacy-policy"
+  url = "/company/privacy-policy"
+[[Languages.de.menu.footer]]
+  name = "Datenschutzerklärung"
+  identifier = "privacy-policy"
+  url = "/de/company/datenschutzerklärung"
+# Footer contact
+[[menu.footer]]
+  name = "Contact"
+  identifier = "contact"
+  url = "/contact"
+[[Languages.de.menu.footer]]
+  name = "Kontakt"
+  identifier = "contact"
+  url = "/de/contact"
 
 # LANGUAGES
 DefaultContentLanguage = "en"

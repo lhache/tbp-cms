@@ -1,2 +1,10 @@
 - id: subtitle
   translation: "Inspiration für gutes Spielzeug"
+- id: contactName
+  translation: "Name"
+- id: contactEmail
+  translation: "Email"
+- id: contactMessage
+  translation: "Message"
+- id: contactSubmit
+  translation: "Submit"
