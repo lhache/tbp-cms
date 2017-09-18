@@ -1,4 +1,4 @@
 ---
 title: ""
 ---
-{{< react-contain id="luliz" >}}
+{{< react-wrapper id="tbp-app-wrapper" >}}

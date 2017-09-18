@@ -3,7 +3,9 @@ import TBPAPP from 'tbp-app'
 import './App.css';
 
 class App extends Component {
+
   render() {
+    console.log(TBPAPP)
     return (
       <div className="App">
         tbp-app below
