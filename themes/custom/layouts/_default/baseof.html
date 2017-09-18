@@ -62,6 +62,15 @@
     {{ end }}
 
     {{/* scripts to load */}}
-    {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }}
+    {{ block "scripts" . }}
+      {{ partial "scripts.html" . }}
+
+      {{/* A little help for the Netlify post-processing bots  */}}
+      <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+        <input type="text" name="name" />
+        <input type="email" name="email" />
+        <textarea name="message"></textarea>
+      </form>
+    {{ end }}
   </body>
 </html>
