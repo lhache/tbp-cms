@@ -24,12 +24,9 @@
 
       {{/* non-hugo code  */}}
       <link href='{{ "build/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
-      <style>
-        {{ partial "footer.css" | safeCSS }}
-      </style>
-      <style>
-        {{ partial "header.css" | safeCSS }}
-      </style>
+      <style>{{ partial "footer.css" | safeCSS }}</style>
+      <style>{{ partial "header.css" | safeCSS }}</style>
+      <style>{{ partial "USP.css" | safeCSS }}</style>
       <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
       <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -45,7 +42,10 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{/* header  */}}
-    {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+    {{ block "header" . }}
+      {{ partial "header.html" .}}
+      {{ partial "USP.html" .}}
+    {{ end }}
 
     {{/* main content from hugo  */}}
     <main class="pb7" role="main">
