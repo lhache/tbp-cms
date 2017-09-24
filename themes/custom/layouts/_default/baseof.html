@@ -28,10 +28,10 @@
     <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
     <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
 
-    {{/* {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }} */}}
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}
       {{ partial "google-tag-manager.html" . }}
-    {{/* {{ end }} */}}
+    {{ end }}
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
@@ -53,7 +53,10 @@
 
     {{/* footer */}}
     {{ block "footer" . }}
-      {{ partial "link-list.html" . }}
+      {{ if ne .Type "s" }}
+        {{ partial "link-list.html" . }}
+      {{ end }}
+
       {{ partial "footer.html" . }}
     {{ end }}
 
