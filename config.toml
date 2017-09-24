@@ -5,7 +5,7 @@ title = "The Better Play"
 theme = "custom"
 
 # TODO
-#.Site.GoogleAnalytics
+googleAnalytics="UA-106940289-1"
 
 # FOOTER
 # Footer about
