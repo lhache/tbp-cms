@@ -1,12 +1,12 @@
 # The Better Play CMS
 
 ## Table of content
-1. Installation
-  1. [for pros](#instructions-for-pros)
-  2. [for noobz](#instructions-for-noobz)
-2. [HowTos](#howtos)
-  1. [Adding new pictures](#adding-new-pictures)
-  2. [Writing new content pages](#writing-new-content-pages)
+- Installation
+  - [for pros](#instructions-for-pros)
+  - [for noobz](#instructions-for-noobz)
+- [HowTos](#howtos)
+  - [Adding new pictures](#adding-new-pictures)
+  - [Writing new content pages](#writing-new-content-pages)
 
 ## Instructions for pros
 
