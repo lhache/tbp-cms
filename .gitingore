@@ -9,5 +9,3 @@ Thumbs.db
 .build/
 .idea/
 nbproject/
-
-#/themes/custom/static/build/
