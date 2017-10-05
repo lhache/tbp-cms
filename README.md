@@ -1,5 +1,13 @@
 # The Better Play CMS
 
+## Table of content
+1. Installation
+  1. [for pros](#instructions-for-pros)
+  2. [for noobz](#instructions-for-noobz)
+2. [HowTos](#howtos)
+  1. [Adding new pictures](#adding-new-pictures)
+  2. [Writing new content pages](#writing-new-content-pages)
+
 ## Instructions for pros
 
 ### Installation
@@ -38,10 +46,17 @@ It requires you have a terminal opened and are in the folder where the code is s
 
 If you're not sure or if something strange prevents you from pushing code, ask a pro.
 
-## Writing new content pages
+## HowTos
+
+### Adding new pictures
+- place your images in `static/images`
+- in markdown files, insert new pictures like `![img alt test ](/images/xxx.png)`
+- if you use nested structures, for ex adding the image in `static/images/lol/hello.jpg`, then you would write `![img alt test ](/images/lol/hello.jpg)`
+
+### Writing new content pages
 - the content is written in markdown, you can read instruction [here](https://guides.github.com/features/mastering-markdown/) or   [there](https://daringfireball.net/projects/markdown/syntax#precode)
 - the available folders for your content are in the 'content' folder
-- *warning* make sure the new files ends by ".md"
+- **warning** make sure the new files ends by ".md"
 - create a new landing page => `hugo new landing/xxxxxxxx.md`
 - create a new content page => `hugo new company/xxxxxxxx.md`
 - *warning* make sure the new files have a "front-matter", something that looks more or less like
