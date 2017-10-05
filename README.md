@@ -4,7 +4,7 @@
 - [Installation](#installation)
   - [for pros](#instructions-for-pros)
   - [for noobz](#instructions-for-noobz)
-- [deployment](#deployment)
+- [Deployment](#deployment)
 - [HowTos](#howtos)
   - [Adding new pictures](#adding-new-pictures)
   - [Writing new content pages](#writing-new-content-pages)
@@ -47,6 +47,8 @@ The project is automatically deployed on http://tbp-cms.netlify.com/
 
 ## HowTos
 
+**Info** remember you'll have to push your code every time you make a change y ou want to deploy
+
 ### Adding new pictures
 - place your images in `static/images`
 - in markdown files, insert new pictures like `![img alt test ](/images/xxx.png)`
@@ -58,7 +60,7 @@ The project is automatically deployed on http://tbp-cms.netlify.com/
 - **warning** make sure the new files ends by ".md"
 - create a new landing page => `hugo new landing/xxxxxxxx.md`
 - create a new content page => `hugo new company/xxxxxxxx.md`
-- *warning* make sure the new files have a "front-matter", something that looks more or less like
+- **warning** make sure the new files have a "front-matter", something that looks more or less like
  <pre><code>
  ---
 title: "Test"
