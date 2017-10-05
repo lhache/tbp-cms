@@ -10,4 +10,4 @@ Thumbs.db
 .idea/
 nbproject/
 
-/themes/custom/static/build/
+#/themes/custom/static/build/
