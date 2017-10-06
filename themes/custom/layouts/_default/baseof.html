@@ -23,6 +23,7 @@
     <style>{{ partial "footer.css" | safeCSS }}</style>
     <style>{{ partial "header.css" | safeCSS }}</style>
     <style>{{ partial "USP.css" | safeCSS }}</style>
+    <style>{{ partial "contact-form.css" | safeCSS }}</style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
@@ -56,19 +57,12 @@
 
       {{ partial "footer.html" . }}
 
-      {{/* <div id="cookie-banner-wrapper"></div> */}}
+      {{ partial "contact-form.html" . }}
     {{ end }}
 
     {{/* scripts to load */}}
     {{ block "scripts" . }}
       {{ partial "scripts.html" . }}
-
-      {{/* A little help for the Netlify post-processing bots  */}}
-      <form name="contact" netlify netlify-honeypot="bot-field" hidden>
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <textarea name="message"></textarea>
-      </form>
     {{ end }}
   </body>
 </html>

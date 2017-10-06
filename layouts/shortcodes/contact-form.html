@@ -1,15 +1,24 @@
-<form method="post">
-    <input type="hidden" name="form-name" value="contact" />
-    <p>
-      <label>{{ i18n "contactName" }} <input type="text" name="name"/></label>
+<form class="ContactForm" method="post">
+    <input class="ContactForm-Input" type="hidden" name="form-name" value="contact" />
+    <p class="ContactForm-Section">
+      <label class="ContactForm-Label">
+        {{ i18n "contactName" }}
+        <input class="ContactForm-Input" type="text" name="name"/>
+      </label>
     </p>
-    <p>
-      <label>{{ i18n "contactEmail" }} <input type="email" name="email"/></label>
+    <p class="ContactForm-Section">
+      <label class="ContactForm-Label">
+        {{ i18n "contactEmail" }}
+        <input class="ContactForm-Input" type="email" name="email"/>
+      </label>
     </p>
-    <p>
-      <label>{{ i18n "contactMessage" }} <textarea name="message"></textarea></label>
+    <p class="ContactForm-Section">
+      <label class="ContactForm-Label">
+        {{ i18n "contactMessage" }}
+        <textarea class="ContactForm-Textarea" name="message"></textarea>
+      </label>
     </p>
-    <p>
-      <button type="submit">{{ i18n "contactSubmit" }}</button>
+    <p class="ContactForm-Section">
+      <button class="ContactForm-Submit" type="submit">{{ i18n "contactSubmit" }}</button>
     </p>
 </form>

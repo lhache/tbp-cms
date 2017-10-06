@@ -1,0 +1,56 @@
+.ContactPage header {
+  text-align: center;
+}
+
+.ContactForm {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ContactForm-Label {
+  font-size: 18px;
+  line-height: 2;
+  color: #20282f;
+  font-weight: 600;
+}
+
+.ContactForm-Input {
+  display: block;
+  width: 500px;
+  height: 32px;
+  border-radius: 5px;
+  margin: 0 auto;
+  border: 2px solid #ff4572;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.ContactForm-Textarea {
+  display: block;
+  width: 500px;
+  height: 128px;
+  border-radius: 5px;
+  margin: 0 auto;
+  border: 2px solid #ff4572;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.ContactForm-Submit {
+  width: 500px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 2;
+  text-align: center;
+  background-color: #ff4572;
+  border: solid 1px #ff4572;
+  outline: none;
+  margin: 32px 12px;
+  cursor: pointer;
+}
