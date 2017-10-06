@@ -1,6 +1,5 @@
 .HeaderContainer {
   background-image: linear-gradient(to top, #ff4572, #2a079b);
-  padding-bottom: 20px;
 }
 
 .Header {
@@ -16,11 +15,13 @@
 .Header-Logo {
   width: 200px;
   min-height: 70px;
+  outline: none;
 }
 
 .Header-Subtitle {
   color: white;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 @media all and (max-width: 960px) {

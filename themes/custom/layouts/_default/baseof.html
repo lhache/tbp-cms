@@ -39,8 +39,10 @@
 
     {{/* header  */}}
     {{ block "header" . }}
-      {{ partial "header.html" .}}
-      {{ partial "USP.html" .}}
+      <header class="HeaderContainer">
+        {{ partial "header.html" .}}
+        {{ partial "USP.html" .}}
+      </header>
     {{ end }}
 
     {{/* main content from hugo  */}}
