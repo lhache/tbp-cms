@@ -30,7 +30,7 @@
     {{ end }}
   </head>
 
-  <body class="{{ $.Param "body_classes"  | default ""}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body class="{{ $.Param "body_classes"  | default "App"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{/* header  */}}
     {{ block "header" . }}

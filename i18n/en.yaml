@@ -17,6 +17,6 @@
 - id: USP.trustSub
   translation: "4 & 5 stars recommendations only"
 - id: USP.easy
-  translation: "easy"
+  translation: "Easy"
 - id: USP.easySub
   translation: "Stop searching & start finding"
