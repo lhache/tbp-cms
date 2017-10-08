@@ -1,8 +1,7 @@
 ---
-title: About us
+title: Find a good toy - simply, fast, without endless searching.
 slug: about-us
 ---
-# Find a good toy - simply, fast, without endless searching.
 
 We are THE BETTER PLAY.
 

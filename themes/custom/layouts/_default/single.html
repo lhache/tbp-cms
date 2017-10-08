@@ -1,4 +1,8 @@
-{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+{{ define "header" }}
+<header class="HeaderContainer">
+  {{ partial "header.html" .}}
+</header>
+{{ end }}
 {{ define "main" }}
   <div class="{{ .Params.Title }}Page">
     <article class="">

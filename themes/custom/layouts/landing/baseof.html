@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+  <head>
+    <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="theme-color" content="#2a079b">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="noindex, nofollow">
+
+    {{ .Hugo.Generator }}
+
+
+    {{/* non-hugo code  */}}
+    <link href='{{ "app/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
+    <style>{{ partial "footer.css" | safeCSS }}</style>
+    <style>{{ partial "header.css" | safeCSS }}</style>
+    <style>{{ partial "contact-form.css" | safeCSS }}</style>
+    <style>{{ partial "USP.css" | safeCSS }}</style>
+
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
+    <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
+
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+      {{ template "_internal/google_analytics_async.html" . }}
+      {{ partial "google-tag-manager.html" . }}
+    {{ end }}
+  </head>
+
+  <body class="{{ $.Param "body_classes"  | default "App"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+
+    {{/* header  */}}
+    {{ block "header" . }}
+      <header class="HeaderContainer">
+        {{ partial "header.html" .}}
+        <div id="SearchContainer"></div>
+        {{ partial "search-tags-helper-text.html"}}
+        {{ partial "USP.html" .}}
+      </header>
+    {{ end }}
+
+    {{/* main content from hugo  */}}
+    <main class="" role="main" style="max-width: 960px; margin: 50px auto; min-height: 300px;">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+
+    {{/* footer */}}
+    {{ block "footer" . }}
+      {{ if ne .Type "s" }}
+        {{ partial "link-list.html" . }}
+      {{ end }}
+
+      {{ partial "footer.html" . }}
+
+      {{ partial "contact-form.html" . }}
+    {{ end }}
+
+    {{/* scripts to load */}}
+    {{ block "scripts" . }}
+      {{ partial "scripts.html" . }}
+    {{ end }}
+  </body>
+</html>
