@@ -1,0 +1,32 @@
+@media all and (max-width: 960px) {
+  .SearchPageHeader {
+    height: 100vh;
+  }
+
+  .SearchPageHeader .Header {
+    display: none;
+  }
+
+  .SearchPageHeader .SearchButtonContainer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+  }
+
+  .SearchPageHeader .SearchButton {
+    border-radius: 0;
+  }
+
+  .SearchPageFooter {
+    display: none;
+  }
+
+  .ResultsPageContent {
+    margin-top: 0!important;
+  }
+
+  .DetailsPageHeader #SearchContainer, .DetailsPageHeader .SearchContainer {
+    display: none;
+  }
+}

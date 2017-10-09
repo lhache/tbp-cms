@@ -18,7 +18,7 @@
     <link href='{{ "app/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
     <style>{{ partial "footer.css" | safeCSS }}</style>
     <style>{{ partial "header.css" | safeCSS }}</style>
-    <style>{{ partial "contact-form.css" | safeCSS }}</style>
+    <style>{{ partial "mobile.css" | safeCSS }}</style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
@@ -40,7 +40,7 @@
     {{ end }}
 
     {{/* main content from hugo  */}}
-    <main class="" role="main" style="max-width: 960px; margin: 50px auto; min-height: 300px;">
+    <main class="{{ .Title }}PageContent" role="main" style="max-width: 960px; margin: 50px auto; min-height: 300px;">
       {{ block "main" . }}
       {{ end }}
     </main>

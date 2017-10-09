@@ -1,18 +1,16 @@
 {{ define "header" }}
-  <header class="HeaderContainer">
+  <header class="HeaderContainer {{ .Title }}PageHeader">
     {{ partial "header-mini.html" .}}
     <div id="SearchContainer"></div>
   </header>
 {{ end }}
+
 {{ define "main" }}
-  <div class="">
-    <article class="">
-      <div class="">
-        {{ .Content }}
-      </div>
-    </article>
-  </div>
+    {{ .Content }}
 {{ end }}
+
 {{ define "footer" }}
-  {{ partial "footer.html" . }}
+  <div class="{{ .Title }}PageFooter">
+    {{ partial "footer.html" . }}
+  </div>
 {{ end }}
