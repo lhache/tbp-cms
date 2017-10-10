@@ -5,6 +5,10 @@
   min-height: 50px;
 }
 
+.DetailsPageHeader #SearchContainer {
+  display: none;
+}
+
 .HeaderContainer {
   background-image: linear-gradient(to top, #ff4572, #2a079b);
 }
