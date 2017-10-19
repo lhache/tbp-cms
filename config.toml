@@ -1,6 +1,6 @@
 #baseURL = "http://www.thebetterplay.com"
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "de"
 title = "The Better Play"
 theme = "custom"
 
@@ -55,7 +55,7 @@ googleAnalytics="UA-106940289-1"
   url = "/de/contact"
 
 # LANGUAGES
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 [Languages]
 [Languages.en]

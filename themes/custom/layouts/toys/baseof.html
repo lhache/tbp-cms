@@ -8,7 +8,7 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="theme-color" content="#2a079b">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <meta name="robots" content="noindex, nofollow">
 
     {{ .Hugo.Generator }}
@@ -21,8 +21,8 @@
     <style>{{ partial "mobile.css" | safeCSS }}</style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-    <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
-    <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
+    <link rel="manifest" href='{{ "app/manifest.json" | absURL }}'>
+    <link rel="shortcut icon" href="{{ "app/favicon.ico" | absURL }}">
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}
@@ -47,7 +47,7 @@
 
     {{/* footer */}}
     {{ block "footer" . }}
-      {{ if ne .Type "s" }}
+      {{ if ne .Type "toys" }}
         {{ partial "link-list.html" . }}
       {{ end }}
 

@@ -29,4 +29,16 @@
   .DetailsPageHeader #SearchContainer, .DetailsPageHeader .SearchContainer {
     display: none;
   }
+
+  .USPContainer {
+    height: auto;
+  }
+
+  .USP {
+    flex-direction: column;
+  }
+
+  .SuggestHelperText {
+    padding-left: 5%!important;
+  }
 }

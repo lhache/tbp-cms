@@ -8,7 +8,7 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="theme-color" content="#2a079b">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     {{ .Hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
@@ -24,9 +24,10 @@
     <style>{{ partial "header.css" | safeCSS }}</style>
     <style>{{ partial "USP.css" | safeCSS }}</style>
     <style>{{ partial "contact-form.css" | safeCSS }}</style>
+    <style>{{ partial "mobile.css" | safeCSS }}</style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-    <link rel="manifest" href='{{ "build/manifest.json" | absURL }}'>
+    <link rel="manifest" href='{{ "app/manifest.json" | absURL }}'>
     <link rel="shortcut icon" href="{{ "build/favicon.ico" | absURL }}">
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
