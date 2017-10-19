@@ -36,9 +36,18 @@
 
   .USP {
     flex-direction: column;
+    padding: 5px;
   }
 
   .SuggestHelperText {
     padding-left: 5%!important;
+  }
+
+  .ContactForm {
+    width: 100%;
+  }
+  .ContactForm-Input, .ContactForm-Textarea, .ContactForm-Submit {
+    width: 90%;
+    margin: 0 auto;
   }
 }
