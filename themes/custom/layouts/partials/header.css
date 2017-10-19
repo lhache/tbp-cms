@@ -1,3 +1,11 @@
+
+/* this is to disable hover on scroll for perfs */
+/* do not delete me but you can move me */
+.disable-hover,
+.disable-hover * {
+  pointer-events: none !important;
+}
+
 #SearchContainer {
   max-width: 960px;
   margin: 0 auto;

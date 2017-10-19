@@ -3,7 +3,5 @@
   "main.css.map": "static/css/main.css.map",
   "main.js": "static/js/main.js",
   "main.js.map": "static/js/main.js.map",
-  "static/media/icon-search.svg": "static/media/icon-search.svg",
-  "static/media/loader.svg": "static/media/loader.svg",
   "static/media/product-placeholder.jpg": "static/media/product-placeholder.jpg"
 }
