@@ -45,6 +45,7 @@
 }
 
 .HeaderMini {
+  padding: 0 8px;
   display: flex;
 }
 .HeaderMini .Header-Subtitle {
