@@ -51,8 +51,8 @@ The project is automatically deployed on http://tbp-cms.netlify.com/
 
 ### Adding new pictures
 - place your images in `static/images`
-- in markdown files, insert new pictures like `![img alt test ](/images/xxx.png)`
-- if you use nested structures, for ex adding the image in `static/images/lol/hello.jpg`, then you would write `![img alt test ](/images/lol/hello.jpg)`
+- in markdown files, insert new pictures like `{{< img src="/images/xxx.png" alt="description of the pic" >}}`
+- if you use nested structures, for ex adding the image in `static/images/lol/hello.jpg`, then you would write `{{< img src="/images/lol/hello.jpg" alt="description of the pic" >}}`
 
 ### Writing new content pages
 - the content is written in markdown, you can read instruction [here](https://guides.github.com/features/mastering-markdown/) or   [there](https://daringfireball.net/projects/markdown/syntax#precode)
