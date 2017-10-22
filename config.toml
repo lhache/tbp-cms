@@ -60,8 +60,8 @@ DefaultContentLanguage = "de"
 [Languages]
 [Languages.en]
 title = "The Better Play"
-weight = 1
+weight = 2
 
 [Languages.de]
 title = "The Better Play"
-weight = 2
+weight = 1
