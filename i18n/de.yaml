@@ -12,14 +12,14 @@
 - id: contactSubmit
   translation: "Submit"
 - id: USP.quality
-  translation: "Quality"
+  translation: "Qualität"
 - id: USP.qualitySub
-  translation: "Good for the kids"
+  translation: "Gute Spielsachen für Kinder"
 - id: USP.trust
-  translation: "Trusted"
+  translation: "Gender neutral"
 - id: USP.trustSub
-  translation: "4 & 5 stars recommendations only"
+  translation: "Keine Stereotypisierung, Spass für alle"
 - id: USP.easy
-  translation: "easy"
+  translation: "Easy"
 - id: USP.easySub
-  translation: "Stop searching & start finding"
+  translation: "Tolle Geschenke schnell gefunden"
