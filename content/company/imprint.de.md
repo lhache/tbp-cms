@@ -3,9 +3,9 @@ title: Impressum
 slug: impressum
 ---
 
-Betreiberin der Website:
+#### Betreiberin der Website:
 
-THE BETTER PLAY
+THE BETTER PLAY 
 Katja Navarra
 Husemannstrasse 10
 10435 Berlin
