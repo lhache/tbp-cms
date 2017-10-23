@@ -5,7 +5,12 @@ slug: imprint
 
 Betreiberin der Website:
 
-THE BETTER PLAYKatja NavarraHusemannstrasse 1010435 Berlinwww.thebetterplay.comKleinunternehmer i.S.d. § 19 UStG
+THE BETTER PLAY
+Katja Navarra
+Husemannstrasse 10
+10435 Berlin
+www.thebetterplay.com
+Kleinunternehmer i.S.d. § 19 UStG
 
 Kontakt: info@thebetterplay.com. Sie erhalten von uns eine Rückmeldung binnen 60 Min.
 
