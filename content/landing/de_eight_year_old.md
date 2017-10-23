@@ -1,10 +1,10 @@
 ---
-title: "Toys for one year olds"
+title: "Spielzeug für achtjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
 slug: ""
-language: ""
+language: "de"
 draft: false
-tags: ["one-year-olds"]
+tags: ["eigth-year-olds"]
 categories: ["age"]
 
 ---
