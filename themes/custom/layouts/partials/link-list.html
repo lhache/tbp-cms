@@ -1,7 +1,33 @@
-<div>
-  {{ range .Data.Pages }}
-    {{ if eq .Type "landing" }}
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+<div class="LinkList">
+  <div class="LinkList-Container">
+    {{ range .Data.Pages }}
+      {{ if eq .Type "landing" }}
+        <a class="LinkList-Item" href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
     {{ end }}
-  {{ end }}
+  </div>
 </div>
+
+<style>
+  .LinkList {
+    width: 100%;
+    background-color: #f2f3f5;
+    text-align: center;
+    padding: 40px;
+    line-height: 2;
+  }
+
+  .LinkList-Container {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .LinkList-Item {
+    width: 33%;
+    color: #20282f;
+    text-decoration: none;
+  }
+</style>
