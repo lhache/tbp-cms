@@ -67,11 +67,9 @@ googleAnalytics="UA-106940289-1"
 [Languages]
 [Languages.de]
 weight = 1
-title = "The Better Playde"
+title = "The Better Play"
 languageName = "Deutsch"
-luliz = "lulizde"
 [Languages.en]
 weight = 2
-title = "The Better Playen"
+title = "The Better Play"
 languageName = "English"
-luliz = "lulizen"
