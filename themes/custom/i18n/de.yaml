@@ -1,0 +1,25 @@
+- id: subtitle
+  translation: "Inspiration für gutes Spielzeug"
+- id: metaDescription
+  translation: "Pädagogisch wertvolle Spielsachen ♥ Phantasie- und kreativitätsfördernd ♥ EU-produziert
+♥ Jetzt hier finden!"
+- id: contactName
+  translation: "Name"
+- id: contactEmail
+  translation: "Email"
+- id: contactMessage
+  translation: "Message"
+- id: contactSubmit
+  translation: "Submit"
+- id: USP.quality
+  translation: "Qualität"
+- id: USP.qualitySub
+  translation: "Gute Spielsachen für Kinder"
+- id: USP.trust
+  translation: "Gender neutral"
+- id: USP.trustSub
+  translation: "Keine Stereotype, Spass für alle"
+- id: USP.easy
+  translation: "Easy"
+- id: USP.easySub
+  translation: "Tolle Geschenke schnell gefunden"

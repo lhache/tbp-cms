@@ -1,10 +1,10 @@
 #baseURL = "http://www.thebetterplay.com"
 baseURL = "/"
+language = "de"
 languageCode = "de"
+defaultContentLanguage = "de"
 title = "The Better Play"
 theme = "custom"
-
-# TODO
 googleAnalytics="UA-106940289-1"
 
 # FOOTER
@@ -64,14 +64,14 @@ googleAnalytics="UA-106940289-1"
   url = "/de/contact"
   weight = 5
 
-# LANGUAGES
-DefaultContentLanguage = "de"
-
 [Languages]
-[Languages.en]
-title = "The Better Play"
-weight = 2
-
 [Languages.de]
-title = "The Better Play"
 weight = 1
+title = "The Better Playde"
+languageName = "Deutsch"
+luliz = "lulizde"
+[Languages.en]
+weight = 2
+title = "The Better Playen"
+languageName = "English"
+luliz = "lulizen"
