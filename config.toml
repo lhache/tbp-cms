@@ -17,7 +17,7 @@ googleAnalytics="UA-106940289-1"
 [[Languages.de.menu.footer]]
   name = "Ueber uns"
   identifier = "about"
-  url = "/de/company/ueber-uns"
+  url = "/company/ueber-uns"
   weight = 1
 # Footer imprint
 [[menu.footer]]
@@ -28,7 +28,7 @@ googleAnalytics="UA-106940289-1"
 [[Languages.de.menu.footer]]
   name = "Impressum"
   identifier = "imprint"
-  url = "/de/company/impressum"
+  url = "/company/impressum"
   weight = 2
 # Footer privacy-policy
 [[menu.footer]]
@@ -39,7 +39,7 @@ googleAnalytics="UA-106940289-1"
 [[Languages.de.menu.footer]]
   name = "Datenschutzerklärung"
   identifier = "privacy-policy"
-  url = "/de/company/datenschutzerklärung"
+  url = "/company/datenschutzerklärung"
   weight = 3
 # Footer affiliate
 [[menu.footer]]
@@ -50,7 +50,7 @@ googleAnalytics="UA-106940289-1"
 [[Languages.de.menu.footer]]
   name = "Amazon Partnerprogramm"
   identifier = "affiliate-disclaimer"
-  url = "/de/company/amazon-partnerprogramm"
+  url = "/company/amazon-partnerprogramm"
   weight = 4
 # Footer contact
 [[menu.footer]]
@@ -61,7 +61,7 @@ googleAnalytics="UA-106940289-1"
 [[Languages.de.menu.footer]]
   name = "Kontakt"
   identifier = "contact"
-  url = "/de/contact"
+  url = "/contact"
   weight = 5
 
 [Languages]

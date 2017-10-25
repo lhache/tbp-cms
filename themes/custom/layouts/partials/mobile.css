@@ -55,7 +55,7 @@
     flex-direction: column;
   }
 
-  .LinkList-Item {
+  .LinkList-Container .LinkList-Item {
     width: 100%;
   }
 }
