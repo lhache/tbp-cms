@@ -15,7 +15,7 @@ googleAnalytics="UA-106940289-1"
   url = "/company/about-us"
   weight = 1
 [[Languages.de.menu.footer]]
-  name = "Ueber uns"
+  name = "Über uns"
   identifier = "about"
   url = "/company/ueber-uns"
   weight = 1
