@@ -1,7 +1,11 @@
 {{ define "header" }}
   <header class="HeaderContainer {{ .Title }}PageHeader">
-    {{ partial "header-mini.html" .}}
-    <div id="SearchContainer"></div>
+    <div class="Header-Background">
+      <div class="Header-BackgroundInner">
+        {{ partial "header-mini.html" . }}
+        <div id="SearchContainer"></div>
+      </div>
+    </div>
   </header>
 {{ end }}
 
