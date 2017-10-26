@@ -6,7 +6,7 @@ language: "de"
 draft: false
 tags: ["one-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=0&age_until=24"
+urlParams: "?c=Spielzeug&age_from=12&age_until=24"
 weight: 1
 ---
 
