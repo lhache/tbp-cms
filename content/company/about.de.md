@@ -3,7 +3,7 @@ title: Über uns
 slug: ueber-uns
 ---
 
-#Ein gutes Spielzeug finden -  einfach, schnell, ohne langes Suchen.
+# Ein gutes Spielzeug finden -  einfach, schnell, ohne langes Suchen.
 
 Hallo, wir sind THE BETTER PLAY.
 
@@ -18,7 +18,7 @@ Deshalb kam uns die Idee, die **einfachste Spielzeug-Suche** die das Internet zu
 Wir glauben **weniger ist mehr** und dass wir alle wieder **selektiver werden** müssen in dem heutigen Überangebot an Konsumgütern.
 
 
-###THE BETTER PLAY hilft dir dein perfektes Geschenk zu finden: 
+### THE BETTER PLAY hilft dir dein perfektes Geschenk zu finden: 
 
 >- Eine Auswahl an klassischen und pädagogisch wertvollen Spielsachen für Neugeborene sowie Kinder bis zum Alter von 12 Jahren, die ihren Neugier und Phantasie anregen und ihrer Kreativität freien Raum lassen. 
 >- Einzig in der EU produzierte Spielsachen. 
