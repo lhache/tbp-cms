@@ -3,19 +3,18 @@ title: Impressum
 slug: impressum
 ---
 
-#### Betreiberin der Website:
+Betreiberin der Website:
 
-THE BETTER PLAY 
+THE BETTER PLAY
 Katja Navarra
 Husemannstrasse 10
 10435 Berlin
 www.thebetterplay.com
 Kleinunternehmer i.S.d. § 19 UStG
 
-Kontakt: info@thebetterplay.com. Sie erhalten von uns eine Rückmeldung binnen 60 Min.
+Kontakt: info@thebetterplay.com. Du erhältst von uns eine Rückmeldung binnen 60 Min.
 
-Diese Website ist ein online Suchportal für Spielsachen. Unser Ziel ist es, dir zu helfen, schnell und unkompliziert, ein gutes Spielzeug zu finden. Basierend auf deiner Suchanfrage schlagen wir dir hierzu eine optimale Auswal an Produkten vor. Bitte beachte: Wir sind kein Online-Shop und verkaufen daher auf unserer Seite auch keine Produkte.
-
+Diese Website ist ein online Suchportal für Spielsachen. Unser Ziel ist es, dir zu helfen, schnell und unkompliziert, ein gutes Spielzeug zu finden. Basierend auf deiner Suchanfrage schlagen wir dir hierzu eine optimale Auswahl an Produkten vor. Bitte beachte: Wir sind kein Online-Shop und verkaufen daher auf unserer Seite auch keine Produkte.
 
 ### Haftungsausschuss
 
