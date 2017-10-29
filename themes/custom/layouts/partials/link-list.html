@@ -2,7 +2,7 @@
 <div class="LinkList-Background">
   <div class="LinkList-Container">
     {{ range .Site.AllPages }}
-      {{ if and (eq .Type "landing") (ne .URL "/landing/") }}
+      {{ if and (eq .Type "spielzeug") (ne .URL "/spielzeug/") }}
         <a class="LinkList-Item" href="{{ .Permalink }}{{ .Params.urlParams }}">{{ .Title }}</a>
       {{ end }}
     {{ end }}

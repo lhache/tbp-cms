@@ -23,3 +23,5 @@
   translation: "Easy"
 - id: USP.easySub
   translation: "Tolle Geschenke schnell gefunden"
+- id: suggest.HelperText
+  translation: "e.g. wooden, sustainable, educational, 3-4 years old..."
