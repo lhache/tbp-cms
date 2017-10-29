@@ -1,7 +1,7 @@
 ---
 title: "Spielzeug für vierjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: ""
+slug: "spielzeug-vierjaehriges-kind"
 language: "de"
 draft: false
 tags: ["four-year-olds"]
