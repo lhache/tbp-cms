@@ -1,8 +1,13 @@
 {{ define "header" }}
 <header class="HeaderContainer">
-  {{ partial "header.html" .}}
-  <div id="SearchContainer"></div>
-  {{ partial "USP.html" .}}
+  <div class="Header-Background">
+    <div class="Header-BackgroundInner">
+      {{ partial "header.html" .}}
+      <div id="SearchContainer"></div>
+      {{ partial "search-tags-helper-text.html"}}
+      {{ partial "USP.html" .}}
+    </div>
+  </div>
 </header>
 {{ end }}
 {{ define "main" }}
@@ -17,5 +22,6 @@
   </div>
 {{ end }}
 {{ define "footer" }}
+  {{ partial "link-list.html" . }}
   {{ partial "footer.html" . }}
 {{ end }}

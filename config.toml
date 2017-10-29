@@ -1,10 +1,10 @@
 #baseURL = "http://www.thebetterplay.com"
 baseURL = "/"
+language = "de"
 languageCode = "de"
+defaultContentLanguage = "de"
 title = "The Better Play"
 theme = "custom"
-
-# TODO
 googleAnalytics="UA-106940289-1"
 
 # FOOTER
@@ -13,55 +13,63 @@ googleAnalytics="UA-106940289-1"
   name = "About"
   identifier = "about"
   url = "/company/about-us"
+  weight = 1
 [[Languages.de.menu.footer]]
-  name = "Ueber uns"
+  name = "Über uns"
   identifier = "about"
-  url = "/de/company/ueber-uns"
+  url = "/company/ueber-uns"
+  weight = 1
 # Footer imprint
 [[menu.footer]]
   name = "Imprint"
   identifier = "imprint"
   url = "/company/imprint"
+  weight = 2
 [[Languages.de.menu.footer]]
   name = "Impressum"
   identifier = "imprint"
-  url = "/de/company/impressum"
-# Footer affiliate
-[[menu.footer]]
-  name = "Affiliate Disclaimer"
-  identifier = "affiliate-disclaimer"
-  url = "/company/affiliate-disclaimer"
-[[Languages.de.menu.footer]]
-  name = "Amazon Partnerprogramm"
-  identifier = "affiliate-disclaimer"
-  url = "/de/company/amazon-partnerprogramm"
+  url = "/company/impressum"
+  weight = 2
 # Footer privacy-policy
 [[menu.footer]]
   name = "Privacy Policy"
   identifier = "privacy-policy"
   url = "/company/privacy-policy"
+  weight = 3
 [[Languages.de.menu.footer]]
   name = "Datenschutzerklärung"
   identifier = "privacy-policy"
-  url = "/de/company/datenschutzerklärung"
+  url = "/company/datenschutzerklärung"
+  weight = 3
+# Footer affiliate
+[[menu.footer]]
+  name = "Affiliate Disclaimer"
+  identifier = "affiliate-disclaimer"
+  url = "/company/affiliate-disclaimer"
+  weight = 4
+[[Languages.de.menu.footer]]
+  name = "Amazon Partnerprogramm"
+  identifier = "affiliate-disclaimer"
+  url = "/company/amazon-partnerprogramm"
+  weight = 4
 # Footer contact
 [[menu.footer]]
   name = "Contact"
   identifier = "contact"
   url = "/contact"
+  weight = 5
 [[Languages.de.menu.footer]]
   name = "Kontakt"
   identifier = "contact"
-  url = "/de/contact"
-
-# LANGUAGES
-DefaultContentLanguage = "de"
+  url = "/contact"
+  weight = 5
 
 [Languages]
-[Languages.en]
-title = "The Better Play"
-weight = 2
-
 [Languages.de]
-title = "The Better Play"
 weight = 1
+title = "The Better Play"
+languageName = "Deutsch"
+[Languages.en]
+weight = 2
+title = "The Better Play"
+languageName = "English"

@@ -50,4 +50,12 @@
     width: 90%;
     margin: 0 auto;
   }
+
+  .LinkList-Container {
+    flex-direction: column;
+  }
+
+  .LinkList-Container .LinkList-Item {
+    width: 100%;
+  }
 }

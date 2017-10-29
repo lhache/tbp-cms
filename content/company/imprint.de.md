@@ -16,7 +16,6 @@ Kontakt: info@thebetterplay.com. Du erhältst von uns eine Rückmeldung binnen 6
 
 Diese Website ist ein online Suchportal für Spielsachen. Unser Ziel ist es, dir zu helfen, schnell und unkompliziert, ein gutes Spielzeug zu finden. Basierend auf deiner Suchanfrage schlagen wir dir hierzu eine optimale Auswahl an Produkten vor. Bitte beachte: Wir sind kein Online-Shop und verkaufen daher auf unserer Seite auch keine Produkte.
 
-
 ### Haftungsausschuss
 
 #### Haftung für Inhalte

@@ -10,7 +10,7 @@
   max-width: 960px;
   margin: 0 auto;
   padding-bottom: 15px;
-  min-height: 50px;
+  min-height: 55px;
 }
 
 .DetailsPageHeader #SearchContainer {
@@ -19,6 +19,24 @@
 
 .HeaderContainer {
   background-image: linear-gradient(to top, #ff4572, #2a079b);
+  position: relative;
+}
+.Header-Background::after {
+  background: url("/images/pattern-confetti.png");
+  background-repeat: repeat;
+  content: "";
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: 0;
+}
+
+.Header-BackgroundInner {
+  z-index: 1;
+  position: relative;
 }
 
 .Header {

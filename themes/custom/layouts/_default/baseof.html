@@ -42,10 +42,14 @@
     {{/* header  */}}
     {{ block "header" . }}
       <header class="HeaderContainer">
-        {{ partial "header.html" .}}
-        <div id="SearchContainer"></div>
-        {{ partial "search-tags-helper-text.html"}}
-        {{ partial "USP.html" .}}
+        <div class="Header-Background">
+          <div class="Header-BackgroundInner">
+            {{ partial "header.html" .}}
+            <div id="SearchContainer"></div>
+            {{ partial "search-tags-helper-text.html"}}
+            {{ partial "USP.html" .}}
+          </div>
+        </div>
       </header>
     {{ end }}
 
@@ -57,7 +61,7 @@
 
     {{/* footer */}}
     {{ block "footer" . }}
-      {{ if ne .Type "s" }}
+      {{ if ne .Type "Toys" }}
         {{ partial "link-list.html" . }}
       {{ end }}
 

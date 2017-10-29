@@ -1,11 +1,13 @@
 <div class="LinkList">
+<div class="LinkList-Background">
   <div class="LinkList-Container">
-    {{ range .Data.Pages }}
-      {{ if eq .Type "landing" }}
-        <a class="LinkList-Item" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ range .Site.AllPages }}
+      {{ if and (eq .Type "landing") (ne .URL "/landing/") }}
+        <a class="LinkList-Item" href="{{ .Permalink }}{{ .Params.urlParams }}">{{ .Title }}</a>
       {{ end }}
     {{ end }}
   </div>
+</div>
 </div>
 
 <style>
@@ -13,8 +15,8 @@
     width: 100%;
     background-color: #f2f3f5;
     text-align: center;
-    padding: 40px;
     line-height: 2;
+    position: relative;
   }
 
   .LinkList-Container {
@@ -23,11 +25,28 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
   }
 
   .LinkList-Item {
     width: 33%;
     color: #20282f;
     text-decoration: none;
+  }
+
+  .LinkList-Background::after {
+    background: url("/images/pattern-confetti.png");
+    background-repeat: repeat;
+    content: "";
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    max-height: 360px;
   }
 </style>
