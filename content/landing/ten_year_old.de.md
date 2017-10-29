@@ -1,7 +1,7 @@
 ---
 title: "Spielzeug für zehnjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: ""
+slug: "spielzeug-zehnjaehriges-kind"
 language: "de"
 draft: false
 tags: ["ten-year-olds"]
