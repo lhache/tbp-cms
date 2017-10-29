@@ -1,7 +1,7 @@
 ---
 title: "Spielzeug für achtjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: ""
+slug: "spielzeug-achtjaehriges-kind"
 language: "de"
 draft: false
 tags: ["eigth-year-olds"]
