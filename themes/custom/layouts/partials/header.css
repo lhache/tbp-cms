@@ -17,6 +17,11 @@
   display: none;
 }
 
+.SearchPageHeader .Header-BackgroundInner {
+  height: 100vh;
+}
+
+
 .HeaderContainer {
   background-image: linear-gradient(to top, #ff4572, #2a079b);
   position: relative;
