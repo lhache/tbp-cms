@@ -9,7 +9,7 @@
 #SearchContainer {
   max-width: 960px;
   margin: 0 auto;
-  padding-bottom: 15px;
+  padding: 0 10px 5px 10px;
   min-height: 55px;
 }
 

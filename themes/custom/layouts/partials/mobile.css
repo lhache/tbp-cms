@@ -1,10 +1,30 @@
+.ShowDesktop {
+  display: inherit;
+}
+.ShowMobile {
+  display: none;
+}
+
 @media all and (max-width: 960px) {
+
+  .ShowDesktop {
+    display: none;
+  }
+  .ShowMobile {
+    display: inherit;
+  }
+
+
   .SearchPageHeader {
     height: 100vh;
   }
 
   .SearchPageHeader .Header {
     display: none;
+  }
+
+  .SearchPageHeader #SearchContainer {
+    padding: 0;
   }
 
   .SearchPageHeader .SearchButtonContainer {
@@ -31,7 +51,7 @@
   }
 
   .USPContainer {
-    height: auto;
+    height: 80px;
   }
 
   .USP {
@@ -39,8 +59,16 @@
     padding: 5px;
   }
 
+  .USP p {
+    color: #20282f;
+  }
+
   .SuggestHelperText {
-    padding-left: 5%!important;
+    display: none;
+  }
+
+  .Select, .Select-control {
+    border-radius: 5px!important;
   }
 
   .ContactForm {

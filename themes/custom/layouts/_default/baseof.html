@@ -26,6 +26,7 @@
     <style>{{ partial "USP.css" | safeCSS }}</style>
     <style>{{ partial "contact-form.css" | safeCSS }}</style>
     <style>{{ partial "mobile.css" | safeCSS }}</style>
+    <style>{{ partial "gallery.css" | safeCSS }}</style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link rel="manifest" href='{{ "app/manifest.json" | absURL }}'>
@@ -54,7 +55,7 @@
     {{ end }}
 
     {{/* main content from hugo  */}}
-    <main class="" role="main" style="max-width: 960px; margin: 50px auto; padding: 0 20px; min-height: 300px;">
+    <main class="" role="main" style="max-width: 960px; margin: 20px auto; padding: 0 20px; min-height: 300px;">
       {{ block "main" . }}
       {{ end }}
     </main>
