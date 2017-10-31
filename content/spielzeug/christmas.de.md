@@ -7,7 +7,7 @@ draft: false
 tags: ["weihnachtsgeschenke-spielzeug-kinder"]
 categories: ["occasion"]
 urlParams: "?c=Spielzeug&age_from=96&age_until=108"
-weight: 8
+weight: 13
 
 ---
 
