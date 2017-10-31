@@ -1,7 +1,7 @@
 ---
 title: "Spielzeug für elfjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-elfjaehriges-kind"
+slug: "elfjaehriges-kind"
 language: "de"
 draft: false
 tags: ["eleven-year-olds"]
