@@ -3,6 +3,7 @@ baseURL = "/"
 language = "de"
 languageCode = "de"
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
 title = "The Better Play"
 theme = "custom"
 googleAnalytics="UA-106940289-1"
