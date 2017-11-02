@@ -27,7 +27,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <link rel="manifest" href='{{ "app/manifest.json" | absURL }}'>
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}">
-    <link rel="canonical" href="{{ .URL }}">
+    <link rel="canonical" href="{{ .URL | absLangURL}}">
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}
