@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für zweijähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-zweijaehriges-kind"
+slug: "zweijaehriges-kind"
 language: "de"
 draft: false
 tags: ["two-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=24&age_until=36"
+appData: '{"c": "Spielzeug", "age_from": "24", "age_until": "36"}'
 weight: 2
 ---
 

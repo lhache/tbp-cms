@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für dreijähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-dreijaehriges-kind"
+slug: "dreijaehriges-kind"
 language: "de"
 draft: false
 tags: ["three-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=36&age_until=48"
+appData: '{"c": "Spielzeug", "age_from": "36", "age_until": "48"}'
 weight: 3
 ---
 

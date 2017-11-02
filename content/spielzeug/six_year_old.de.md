@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für sechsjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-sechsjaehriges-kind"
+slug: "sechsjaehriges-kind"
 language: "de"
 draft: false
 tags: ["six-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=72&age_until=84"
+appData: '{"c": "Spielzeug", "age_from": "72", "age_until": "84"}'
 weight: 6
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für siebenjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: spielzeug-siebenjaehriges-kind
+slug: "siebenjaehriges-kind"
 language: "de"
 draft: false
 tags: ["seven-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=84&age_until=96"
+appData: '{"c": "Spielzeug", "age_from": "84", "age_until": "96"}'
 weight: 7
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für fünfjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-fuenfjaehriges-kind"
+slug: "fuenfjaehriges-kind"
 language: "de"
 draft: false
 tags: ["five-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=60&age_until=72"
+appData: '{"c": "Spielzeug", "age_from": "60", "age_until": "72"}'
 weight: 5
 ---
 

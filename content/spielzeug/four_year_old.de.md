@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für vierjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-vierjaehriges-kind"
+slug: "vierjaehriges-kind"
 language: "de"
 draft: false
 tags: ["four-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=48&age_until=60"
+appData: '{"c": "Spielzeug", "age_from": "48", "age_until": "60"}'
 weight: 4
 ---
 

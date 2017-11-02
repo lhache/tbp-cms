@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für neunjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-neunjaehriges-kind"
+slug: "neunjaehriges-kind"
 language: "de"
 draft: false
 tags: ["nine-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=120&age_until=132"
+appData: '{"c": "Spielzeug", "age_from": "120", "age_until": "132"}'
 weight: 9
 ---
 

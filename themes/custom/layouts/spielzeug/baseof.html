@@ -33,6 +33,11 @@
       {{ template "_internal/google_analytics_async.html" . }}
       {{ partial "google-tag-manager.html" . }}
     {{ end }}
+
+    <script>
+      var tbpAppData = "{{ .Params.appData }}"
+    </script>
+
   </head>
 
   <body class="{{ $.Param "body_classes"  | default "App"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">

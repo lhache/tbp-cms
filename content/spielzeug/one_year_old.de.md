@@ -1,12 +1,12 @@
 ---
 title: "Spielzeug für einjähriges Kind"
 date: 2017-09-20T16:14:09+02:00
-slug: "spielzeug-einjaehriges-kind"
+slug: "einjaehriges-kind"
 language: "de"
 draft: false
 tags: ["one-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=12&age_until=24"
+appData: '{"c": "Spielzeug", "age_from": "12", "age_until": "24"}'
 weight: 1
 ---
 

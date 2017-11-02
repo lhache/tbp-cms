@@ -6,7 +6,7 @@ language: "de"
 draft: false
 tags: ["eigth-year-olds"]
 categories: ["age"]
-urlParams: "?c=Spielzeug&age_from=96&age_until=108"
+appData: '{"c": "Spielzeug", "age_from": "96", "age_until": "108"}'
 weight: 8
 
 ---
