@@ -7,7 +7,7 @@ draft: false
 tags: ["kleinkind"]
 categories: ["age"]
 appData: '{"c": "Spielzeug", "age_from": "96", "age_until": "108"}'
-weight: 8
+weight: 14
 
 ---
 
