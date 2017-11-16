@@ -17,8 +17,6 @@ Gerade für Kleinkinder ist Spielen das Schönste. Das Kind fängt an, nicht nur
  <blockquote>
   <p><em>Foto von Daiga Ellaby via</em> <a href="https://unsplash.com/photos/ldOzKqZa6wg">unsplash</a></p>
 </blockquote>
-
-<h2>Welches Spielzeug ist für ein Kind mit einem Jahr als pädagogisch wertvoll anzusehen?</h2>
  
 <h2>Welches Spielzeug ist pädagogisch wertvoll in den ersten beiden Lebensjahren? </h2>
  
