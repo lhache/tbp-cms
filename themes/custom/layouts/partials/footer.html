@@ -16,7 +16,7 @@
         {{ if .Site.Menus.footer }}
             {{ range .Site.Menus.footer }}
               <div class="Footer-Link">
-                <a class="" href="{{ .URL }}" title="{{ .Name }} page">
+                <a class="" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
                   {{ .Name }}
                 </a>
               </div>
