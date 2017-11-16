@@ -13,7 +13,12 @@ weight: 2
  
 Gerade für Kleinkinder ist Spielen das Schönste. Das Kind fängt an, nicht nur die Funktion des Spielzeugs, sondern auch das Spielzeug selbst zu ergründen. Es versucht, Teile auseinander zu nehmen und wieder zusammenzusetzen. Es möchte am liebsten alles auf einmal machen und versucht auf seine unbeholfene Art, zu helfen. Plötzlich beobachten die Eltern, wie das Kind beginnt, sie nachzuahmen. Das Kind fängt an, im Kreise herumzutanzen und dabei Töne von sich zu geben. Das Kleinkind entwickelt ein Interesse daran, Blätter, Eicheln und andere Dinge vom Boden aufzuheben und zu sammeln, die Natur und die Umwelt wahrzunehmen und tastet seine Umgebung ab. Ob bei handwerklichen Arbeiten oder bei der Gartenarbeit – das Kind schaut fasziniert zu und möchte helfen. Hier geben Pufferformen für den Sandkasten dem Kleinkind die Möglichkeit, das Anrühren des Teiges und das Kuchenbacken nachzuahmen. Für Kleinkinder sollten Spielzeuge ausgewählt werden, welche die Entwicklung solcher Interessen fördern. So erlernt das Kind beim Spielen Fingerfertigkeit und Sozialkompetenz.
 
-{{< img src="images/spielzeug_zweijaeriges_kind.jpg" alt="Spielzeug für einjähriges Kind" >}}
+{{< img src="images/spielzeug_zweijaehriges_kind.jpg" alt="Spielzeug für zweijähriges Kind" >}}
+ <blockquote>
+  <p><em>Foto von Daiga Ellaby via</em> <a href="https://unsplash.com/photos/ldOzKqZa6wg">unsplash</a></p>
+</blockquote>
+
+<h2>Welches Spielzeug ist für ein Kind mit einem Jahr als pädagogisch wertvoll anzusehen?</h2>
  
 <h2>Welches Spielzeug ist pädagogisch wertvoll in den ersten beiden Lebensjahren? </h2>
  
