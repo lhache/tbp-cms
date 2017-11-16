@@ -6,7 +6,7 @@ language: "de"
 draft: false
 tags: ["twelve-year-olds"]
 categories: ["age"]
-appData: '{"c": "Spielzeug", "age_from": "156", "age_until": "168"}'
+appData: '{"c": "Spielzeug", "age_from": "144", "age_until": "165"}'
 weight: 12
 ---
 
