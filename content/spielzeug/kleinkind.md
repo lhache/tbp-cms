@@ -6,7 +6,7 @@ language: "de"
 draft: false
 tags: ["kleinkind"]
 categories: ["age"]
-appData: '{"c": "Spielzeug", "age_from": "96", "age_until": "108"}'
+appData: '{"c": "Spielzeug", "age_from": "12", "age_until": "24"}'
 weight: 14
 
 ---
