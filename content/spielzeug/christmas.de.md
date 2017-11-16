@@ -27,7 +27,7 @@ Hier einige Vorschläge, mit denen du an Weihnachten bestimmt nie falsch liegst:
 
 {{< img src="images/spielzeug-weihnachtsgeschenk.jpg" alt="Spielzeug für Weihnachtsgeschenk" >}}
  <blockquote>
-  <p><em>Foto von radermk@gmail.com via</em> <a href="https://unsplash.com/photos/VfWkdMue5Jc">unsplash</a></p>
+  <p><em>Foto von Kari Shea via</em> <a href="https://unsplash.com/photos/VfWkdMue5Jc">unsplash</a></p>
 </blockquote>
 
 Wer mit den Kindern gemeinsam aktiv die Umwelt und Natur erkunden möchte, kann überlegen ein Outdoor- oder Sportprodukt zu schenken. Z.B. ein Fahrrad, ein Tretroller oder ein Skateboard sind tolle Geschenke für den Nachwuchs.. In der Winterzeit bieten sich natürlich auch ein Holzschlitten an, für den Schnee-Spass mit der ganzen Familien. Oder wie wäre es mit einer Ausrüstung für den klassischen Wintersport, wie Skifahren oder Snowboarden?
