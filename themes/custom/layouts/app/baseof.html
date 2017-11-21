@@ -26,7 +26,6 @@
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}">
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ template "_internal/google_analytics_async.html" . }}
       {{ partial "google-tag-manager.html" . }}
     {{ end }}
   </head>
