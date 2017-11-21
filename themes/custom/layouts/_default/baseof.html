@@ -33,9 +33,6 @@
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}">
     <link rel="canonical" href="{{ .URL | absLangURL}}">
 
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ partial "google-tag-manager.html" . }}
-    {{ end }}
   </head>
 
   <body class="{{ $.Param "body_classes"  | default "App"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">

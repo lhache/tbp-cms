@@ -25,9 +25,6 @@
     <link rel="manifest" href='{{ "app/manifest.json" | absURL }}'>
     <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}">
 
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ partial "google-tag-manager.html" . }}
-    {{ end }}
   </head>
 
   <body class="App {{ .Type }}Page {{ .Title }}Page">
