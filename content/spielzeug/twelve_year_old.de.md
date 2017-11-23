@@ -6,13 +6,13 @@ language: "de"
 draft: false
 tags: ["twelve-year-olds"]
 categories: ["age"]
-appData: '{"c": "Spielzeug", "age_from": "144", "age_until": "165"}'
+appData: '{"age_from": "144", "age_until": "165"}'
 weight: 12
 ---
 
 <h2>Bald ein Teen - welches Spielzeug ist für die Entwicklung sinnvoll?</h2>
 
-Auch größere Kinder lernen immer noch im Spiel - auch wenn jetzt der Eintritt ins Jugendlichenalter ansteht. Die Pubertät ist meistens schon voll im Gange. Langsam sind es nicht mehr die typischen Spielsachen, welche das Interesse der Kinder wecken, sondern Spielzeuge, die mehr und mehr ans Erwachsenenleben erinnern. Zwölfjährige fühlen sich vielleicht nicht mehr als Kinder und doch sind sie noch sehr verspielt. Auch die Peergroup gewinnt noch mehr an Bedeutung: Kinder diesen Alters fühlen sich stark abhängig von der Meinung ihrer Freunde - welche sogar mehr zählt als die Einstellung der Eltern. Die Wände in ihrem Zimmer hängen voller Bilder von Popstars und selbst gewählte Helden werden bewundert. Das Kind schließt sich bestimmten Gruppen an, mit denen gemeinsame Hobbys gepflegt werden. Der Zusammenhalt in der Gruppe wird jetzt als besonders wichtig empfunden und es finden immer mehr gemeinsame Aktivitäten statt. Das Kind grenzt sich immer mehr, auch in puncto Interessen und Meinungen, von den Eltern ab. Trotzdem braucht es auch gemeinsame Aktivitäten mit den Eltern und Geborgenheit. Dementsprechend wählt das Kind sein Lieblingsspielzeug, welches ihm das Gefühl gibt, schon ein Stück weit "erwachsen" zu sein. Angehende Jugendliche möchte experimentieren und etwas riskieren, ihre Fähigkeiten und Grenzen ausloten und ihre Identität finden. 
+Auch größere Kinder lernen immer noch im Spiel - auch wenn jetzt der Eintritt ins Jugendlichenalter ansteht. Die Pubertät ist meistens schon voll im Gange. Langsam sind es nicht mehr die typischen Spielsachen, welche das Interesse der Kinder wecken, sondern Spielzeuge, die mehr und mehr ans Erwachsenenleben erinnern. Zwölfjährige fühlen sich vielleicht nicht mehr als Kinder und doch sind sie noch sehr verspielt. Auch die Peergroup gewinnt noch mehr an Bedeutung: Kinder diesen Alters fühlen sich stark abhängig von der Meinung ihrer Freunde - welche sogar mehr zählt als die Einstellung der Eltern. Die Wände in ihrem Zimmer hängen voller Bilder von Popstars und selbst gewählte Helden werden bewundert. Das Kind schließt sich bestimmten Gruppen an, mit denen gemeinsame Hobbys gepflegt werden. Der Zusammenhalt in der Gruppe wird jetzt als besonders wichtig empfunden und es finden immer mehr gemeinsame Aktivitäten statt. Das Kind grenzt sich immer mehr, auch in puncto Interessen und Meinungen, von den Eltern ab. Trotzdem braucht es auch gemeinsame Aktivitäten mit den Eltern und Geborgenheit. Dementsprechend wählt das Kind sein Lieblingsspielzeug, welches ihm das Gefühl gibt, schon ein Stück weit "erwachsen" zu sein. Angehende Jugendliche möchte experimentieren und etwas riskieren, ihre Fähigkeiten und Grenzen ausloten und ihre Identität finden.
 
 <h2>Welches Spielzeug ist pädagogisch wertvoll für angehende Teens?</h2>
 

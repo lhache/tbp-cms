@@ -6,7 +6,7 @@ language: "de"
 draft: false
 tags: ["nine-year-olds"]
 categories: ["age"]
-appData: '{"c": "Spielzeug", "age_from": "108", "age_until": "120"}'
+appData: '{"age_from": "108", "age_until": "120"}'
 weight: 9
 ---
 
@@ -18,4 +18,3 @@ Mit neun Jahren nimmt das Spielen allmählich differenzierte Formen an. Das Denk
 <h2>Welches Spielzeug ist hilfreich und förderlich für die Entwicklung im 10. Lebensjahr?</h2>
 
 Besonders sinnvoll sind jetzt Spielzeuge, welche die erlangten Fähigkeiten des Kindes verbessern. Egal, ob es im Kinderzimmer oder draußen an der frischen Luft spielt – Spielbälle, das Federballspiel oder im Winter auch die Schlittschuhe sowie der Rodelschlitten sind hier die Klassiker. Das Kind verbindet nun aus Eigeninitiative das Spiel mit körperlichem Training und hat Erfolgserlebnisse. Daher sind Spielsachen, welche dieser Bewegungslust des Kindes Rechnung tragen, auch ein ideales Geschenk zu Weihnachten, zu Ostern oder zum Wiegenfeste. Der kindliche Ehrgeiz könnte auch das Interesse an intellektuell anspruchsvollen Spielen wie Schach oder dergleichen wecken. In diesem Falle wäre ein Schachspiel, inkl. Schachlehrbuch, ebenfalls ein tolles und pädagogisch sehr wertvolles Geschenk. Wie wäre es mit einem Tagebuch, in welches das Kind seine täglichen Erfolgserlebnisse oder kleinen Alltagspannen dokumentieren kann? Mit den entstehenden Texten, in Verbindung mit selbst gemalten Bildchen, fängt so das Kind vielleicht sogar an, sein erstes (Bilder)buch zu schreiben und zu gestalten. Je nachdem wie sehr im schreiben und / oder zeichnen Spass bereitet. Natürlich sind auch Miniaturen wie der kleine Zirkus, der Bauernhof, die Ritterburg oder die antike Puppenstube immer noch Evergreens als Spielzeug für neunjährige Kinder und sinnvoll für deren Persönlichkeitsentwicklung. Tisch- und Brettspiele sind ebenso in diesem Alter pädagogisch sinnvoll und bleiben aktuell. Nicht zu vergessen – ein kleines Werkzeugset ist eine interessante Abwechslung und gibt dem Kind einen Einblick in das spätere Heimwerken. Kurzum – jedes Spielzeug, welches das Kind inspiriert und Raum für seine eigene Kreativität lässt, ist zu empfehlen. Je weiter sich die Persönlichkeit des Kindes entwickelt, desto mehr Arten von Spielzeug können als hilfreich für die Gesamtentwicklung eines jungen Menschen betrachtet werden.
-
