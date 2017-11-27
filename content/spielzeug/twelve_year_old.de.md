@@ -16,7 +16,7 @@ Auch größere Kinder lernen immer noch im Spiel - auch wenn jetzt der Eintritt 
 
 {{< img src="images/spielzeug-zwoelfjaehriges-kind.jpg" alt="Spielzeug für zwölfjähriges Kind" >}}
  <blockquote>
-  <p><em>Foto von Andhika Soreng via</em> <a href="https://unsplash.com/photos/XuJ9qu47S2c">unsplash</a></p>
+  <p><em>Foto von Andhika Soreng via</em> <a href="https://www.instagram.com/andhikasorengphoto/">unsplash</a></p>
 </blockquote>
 
 <h2>Welches Spielzeug ist pädagogisch wertvoll für angehende Teens?</h2>
