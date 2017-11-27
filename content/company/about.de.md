@@ -20,12 +20,11 @@ Wir glauben **weniger ist mehr** und dass wir alle wieder **selektiver werden** 
 
 ### THE BETTER PLAY hilft dir dein perfektes Geschenk zu finden: 
 
->- Eine Auswahl an klassischen und pädagogisch wertvollen Spielsachen für Neugeborene sowie Kinder bis zum Alter von 12 Jahren, die ihren Neugier und Phantasie anregen und ihrer Kreativität freien Raum lassen. 
->- Einzig in der EU produzierte Spielsachen. 
+Wir bieten eine Auswahl an klassischen und pädagogisch wertvollen Spielsachen für Neugeborene, Babies, Kleinkinder und Kinder bis zum Alter von 12 Jahren, die ihre Neugier und Phantasie anregen und ihrer Kreativität freien Raum lassen.  
 
 Wir von THE BETTER PLAY glauben auch daran, dass die Eignung von Spielsachen **gender neutral** ist: Kinder sollten die Freiheit haben mit dem Spielzeug zu spielen, das sie inspiriert, unabhängig davon ob sie Mädchen oder Jungs sind. 
 
-Wir **grenzen uns bewusst von dem überwältigendem Gender Marketing** der Spielzeugbranche ab, das sich fast in jedem Spielwarenladen wiederfindet.
+Wir **grenzen uns bewusst von dem überwältigendem Gender Marketing** der Spielzeugbranche ab, das sich fast in jedem Spielwarenladen wiederfindet. Deshalb haben wir in unserer Suche darauf verzichtet, Spielsachen gefiltert nach Geschlecht suchen zu können.  
 
 THE BETTER PLAY möchte, dass du mehr Zeit hast mit den Kindern zu spielen. Unser Service ist so designed, dass du effizient ans Ziel kommst, ohne langes Suchen und dich in überfüllten Geschäften zu verlieren. Wir wollen, dass du dich von dem Moment an, wo du unsere Seite betrittst, wohl fühlst und alles findest, um einfach und schnell das passende Geschenk zu finden. 
 
