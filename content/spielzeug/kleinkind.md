@@ -21,7 +21,7 @@ Kleinkinder sind vor allem auch kleine Entdeckerinnen und Entdecker. Sie untersu
 
 {{< img src="images/spielzeug-fuer-kleinkind.jpg" alt="Spielzeug für Kleinkind" >}}
  <blockquote>
-  <p><em>Foto von Jelleke Vanooteghem via</em> <a href="https://unsplash.com/photos/zpQpn5N1na8">unsplash</a></p>
+  <p><em>Foto von Jelleke Vanooteghem  via</em> <a href="https://unsplash.com/photos/zpQpn5N1na8">unsplash</a></p>
 </blockquote>
 
 Spiele die Raum lassen für Kreativität und Phantasie
