@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Better Play</title>
-    <link>https://www.thebetterplay.com/de/categories/</link>
+    <link>/de/categories/</link>
     <description>Recent content in Categories on The Better Play</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Wed, 20 Sep 2017 16:14:09 +0200</lastBuildDate>
     
-	<atom:link href="https://www.thebetterplay.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Age</title>
-      <link>https://www.thebetterplay.com/de/categories/age/</link>
+      <link>/de/categories/age/</link>
       <pubDate>Wed, 20 Sep 2017 16:14:09 +0200</pubDate>
       
-      <guid>https://www.thebetterplay.com/de/categories/age/</guid>
+      <guid>/de/categories/age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Occasion</title>
-      <link>https://www.thebetterplay.com/de/categories/occasion/</link>
+      <link>/de/categories/occasion/</link>
       <pubDate>Wed, 20 Sep 2017 16:14:09 +0200</pubDate>
       
-      <guid>https://www.thebetterplay.com/de/categories/occasion/</guid>
+      <guid>/de/categories/occasion/</guid>
       <description></description>
     </item>
     

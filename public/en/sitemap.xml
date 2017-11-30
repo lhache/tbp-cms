@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.thebetterplay.com/en/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/company/affiliate-disclaimer/</loc>
+    <loc>/en/company/affiliate-disclaimer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/company/amazon-partnerprogramm/"
+                href="/de/company/amazon-partnerprogramm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/company/affiliate-disclaimer/"
+                href="/en/company/affiliate-disclaimer/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/company/</loc>
+    <loc>/en/company/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/company/"
+                href="/de/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/company/"
+                href="/en/company/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/company/about-us/</loc>
+    <loc>/en/company/about-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/company/ueber-uns/"
+                href="/de/company/ueber-uns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/company/about-us/"
+                href="/en/company/about-us/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/company/imprint/</loc>
+    <loc>/en/company/imprint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/company/impressum/"
+                href="/de/company/impressum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/company/imprint/"
+                href="/en/company/imprint/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/company/privacy-policy/</loc>
+    <loc>/en/company/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/company/datenschutzerkl%C3%A4rung/"
+                href="/de/company/datenschutzerkl%C3%A4rung/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/company/privacy-policy/"
+                href="/en/company/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>https://www.thebetterplay.com/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.thebetterplay.com/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.thebetterplay.com/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
