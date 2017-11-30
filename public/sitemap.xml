@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://www.thebetterplay.com/de/sitemap.xml</loc>
+		
+	   	<lastmod>2017-09-20T16:14:09+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.thebetterplay.com/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

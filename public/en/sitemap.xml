@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/company/affiliate-disclaimer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/company/amazon-partnerprogramm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/company/affiliate-disclaimer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/company/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/company/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/company/ueber-uns/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/company/about-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/company/imprint/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/company/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/company/imprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/company/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/company/datenschutzerkl%C3%A4rung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/company/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.thebetterplay.com/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.thebetterplay.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.thebetterplay.com/en/tags/"
+                />
+  </url>
+  
+</urlset>

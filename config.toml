@@ -1,4 +1,5 @@
-baseURL = "https://www.thebetterplay.com"
+# baseURL = "https://www.thebetterplay.com"
+baseURL = "/"
 language = "de"
 languageCode = "de"
 defaultContentLanguage = "de"

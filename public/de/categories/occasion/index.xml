@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Occasion on The Better Play</title>
+    <link>https://www.thebetterplay.com/de/categories/occasion/</link>
+    <description>Recent content in Occasion on The Better Play</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 20 Sep 2017 16:14:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.thebetterplay.com/de/categories/occasion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weihnachtsgeschenke</title>
+      <link>https://www.thebetterplay.com/de/spielzeug/weihnachtsgeschenke-spielzeug-kinder/</link>
+      <pubDate>Wed, 20 Sep 2017 16:14:09 +0200</pubDate>
+      
+      <guid>https://www.thebetterplay.com/de/spielzeug/weihnachtsgeschenke-spielzeug-kinder/</guid>
+      <description>Spielzeug für Weihnachten Das perfekte Geschenk für Weihnachten finden In den Augen eines Kindes, ist nebst dem eigenen Geburtstag, Weihnachten wohl das schönste Ereignis im Jahr: die lieben kleinen Wissen, es ist wieder Zeit für Geschenke. Nicht die um die man üblich bitten muss, sondern die, die man einfach so erhält, weil der Anlass das so vorsieht. Kaum etwas bringt Kinderaugen so zum leuchten, wie die vielen bunten Pakete unter dem Weihnachtsbaum.</description>
+    </item>
+    
+  </channel>
+</rss>

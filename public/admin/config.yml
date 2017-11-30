@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: lhache/tbp-cms # Path to your Github repository
+  branch: master # Branch to update
+
+media_folder: "content/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "company" # Used in routes, e.g., /admin/collections/:slug/edit
+    label: "Company Page" # Used in the UI, e.g., "New Post"
+    folder: "content/company" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "seo"
+  #   label: "SEO Page"
+  #   folder: "content/seo"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+  #     - {label: "Slug", name: "slug", widget: "string"}
+  #     - {label: "Body", name: "body", widget: "markdown"}

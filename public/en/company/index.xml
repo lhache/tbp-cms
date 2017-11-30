@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Companies on The Better Play</title>
+    <link>https://www.thebetterplay.com/en/company/</link>
+    <description>Recent content in Companies on The Better Play</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://www.thebetterplay.com/en/company/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Affiliate Disclaimer</title>
+      <link>https://www.thebetterplay.com/en/company/affiliate-disclaimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thebetterplay.com/en/company/affiliate-disclaimer/</guid>
+      <description>TODO in english</description>
+    </item>
+    
+    <item>
+      <title>Find a good toy - simply, fast, without endless searching.</title>
+      <link>https://www.thebetterplay.com/en/company/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thebetterplay.com/en/company/about-us/</guid>
+      <description>We are THE BETTER PLAY.
+You know that situation, when you are looking for a toy for your kid, your niece, your grandchild or a friends new born baby. You go to the toy store feeling overwhelmed by everything there? All that bling and plastic, all that too much of everything, where you don’t even know where to start looking for? And to yourself you think; I just want a good, solid present.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://www.thebetterplay.com/en/company/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thebetterplay.com/en/company/imprint/</guid>
+      <description>Betreiberin der Website:
+THE BETTER PLAY
+Katja Navarra
+Husemannstrasse 10
+10435 Berlin
+www.thebetterplay.com
+Kleinunternehmer i.S.d. § 19 UStG
+Kontakt: info@thebetterplay.com. Sie erhalten von uns eine Rückmeldung binnen 60 Min.
+Diese Website ist ein online Suchportal für Spielsachen. Unser Ziel ist es, Ihnen zu helfen, schnell und unkompliziert, ein gutes Spielzeug zu finden. Basierend auf Ihrer Suchanfrage schlagen wir Ihnen hierzu eine optimale Auswal an Produkten vor. Bitte beachten Sie: Wir sind kein Online-Shop und verkaufen daher auf unserer Seite auch keine Produkte.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.thebetterplay.com/en/company/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thebetterplay.com/en/company/privacy-policy/</guid>
+      <description>text todo</description>
+    </item>
+    
+  </channel>
+</rss>
