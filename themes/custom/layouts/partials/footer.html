@@ -2,16 +2,20 @@
   <div class="Footer">
     <div class="Footer-Brand">
       <a href="{{ .Site.BaseURL }}" >
-        <img class="FooterLogo" src="/images/logo.svg" alt="" />
+        <img class="FooterLogo" src="/images/logo.svg" alt="Logo" />
       </a>
       <div class="Footer-Subtitle">
         {{ i18n "subtitle" }}
       </div>
     </div>
     <div class="Footer-Links">
+      <a href="https://www.facebook.com/THE-BETTER-PLAY-311913689294308/" target="_blank" rel="noopener noreferrer">
+        <img class="" src="/images/icon-f.svg" alt="Facebook"  width="20px" style="margin-right: 10px;"/>
+      </a>
       <div class="Footer-Copyright">
-        Copyright &copy; {{ now.Format "2006" }}
+        <span class="Footer-CopyrightText">Copyright &copy; {{ now.Format "2006" }}</span>
       </div>
+
       <div class="Footer-LinkList">
         {{ if .Site.Menus.footer }}
             {{ range .Site.Menus.footer }}

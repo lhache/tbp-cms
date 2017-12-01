@@ -38,6 +38,10 @@
   font-size: 14px;
 }
 
+.Footer-CopyrightText {
+  vertical-align: top;
+}
+
 .Footer-Link {
   padding: 4px;
   font-size: 14px;
