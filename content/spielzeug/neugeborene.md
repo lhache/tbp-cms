@@ -1,5 +1,5 @@
 ---
-title: "Spielzeug für Säuglinge und Neugeborene"
+title: "Spielzeug für Säuglinge & Neugeborene"
 date: 2017-09-20T16:14:09+02:00
 slug: "neugeborene"
 language: "de"
