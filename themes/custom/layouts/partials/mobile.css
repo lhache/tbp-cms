@@ -46,10 +46,6 @@
     margin-top: 0!important;
   }
 
-  .DetailsPageHeader #SearchContainer, .DetailsPageHeader .SearchContainer {
-    display: none;
-  }
-
   .USPContainer {
     height: 80px;
   }
