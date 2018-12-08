@@ -23,7 +23,7 @@
     {{ end }}
 
     {{/* non-hugo code  */}}
-    <link href='{{ "app/static/css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
+    {{ partial "app-css.html" . }}
     <style>{{ partial "footer.css" | safeCSS }}</style>
     <style>{{ partial "header.css" | safeCSS }}</style>
     <style>{{ partial "USP.css" | safeCSS }}</style>
