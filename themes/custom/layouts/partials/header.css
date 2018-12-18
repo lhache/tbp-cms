@@ -1,4 +1,10 @@
 
+body {
+  color: #414754;
+}
+
+
+
 /* this is to disable hover on scroll for perfs */
 /* do not delete me but you can move me */
 .disable-hover,
