@@ -1,7 +1,7 @@
 ---
-title: "Spielzeuge von damals bis heute"
+title: "Die beliebtesten Gesellschaftsspiele der Welt"
+slug: "die-beliebtesten-gesellschaftsspiele-der-welt"
 date: 2017-09-20T16:14:09+02:00
-slug: "die-erfolgreichsten-spielzeuge-der-welt"
 language: "de"
 draft: false
 tags: ["eigth-year-olds"]
